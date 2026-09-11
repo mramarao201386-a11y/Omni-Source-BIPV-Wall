@@ -6,7 +6,7 @@
 
 ---
 
-![Omni-Source BIPV Energy Wall Concept](మీ_ఇమేజ్_లింక్_ఇక్కడ_ఇవ్వండి)
+![Omni-Source BIPV Energy Wall Concept](Gemini_Generated_Image_42ncmb42ncmb42nc.png)
 
 *(Note: Replace the placeholder link above with your uploaded image link in your repository)*
 
